@@ -1,8 +1,9 @@
 # 🌱 Genefarm – Bridging GMO Creators and Farmers
 
 <div align="center">
-  <img src="images/genefarm.gif" alt="Genefarm Demo" width="90% height="50%">
+  <img src="images/genefarm.gif" alt="Genefarm Demo" width="90%" height="300">
 </div>
+
 
 ## 📌 Overview
 
