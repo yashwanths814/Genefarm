@@ -8,7 +8,6 @@
 
 **Genefarm** is a cross-platform mobile application that bridges the gap between **GMO creators** and **farmers**. It streamlines the exchange of genetically modified crops by allowing creators to register and showcase their saplings, and by enabling farmers to browse, filter, and purchase crops suited to their specific needs.
 
-🎯 This project was developed during an **interdepartmental competition** focused on applied machine learning and tech-enabled agriculture. Built within just **one hour**, it secured **1st place** among **60+ participants**.
 
 🔗 **Live App**: [genefarm.flutterflow.app](https://genefarm.flutterflow.app)  
 📱 Built using **Flutter**, **Firebase**, and **FlutterFlow**
